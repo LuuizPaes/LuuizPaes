@@ -5,7 +5,9 @@
 About me:
 
 - 💻 I'm web developer
-- 💬 Ask me about JavaScript, HTML, CSS,
+- 💬 Ask me about JavaScript, HTML5, CSS3, Node Js
+- 🚀 learning about react, typescript
+- 🎓 Majoring in Systems Analysis and Development
 - ⚡ Fun Fact: I am curious 😜
 
 <br><br>
