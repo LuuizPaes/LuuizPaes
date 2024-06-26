@@ -25,6 +25,7 @@ About me:
  <img height="28px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005f86?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-eb4040?style=for-the-badge&logo=figma&logoColor=white">
  <img height="28px" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+ <img height="28px" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)">
 </div>
 
 
