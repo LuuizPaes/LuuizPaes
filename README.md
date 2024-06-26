@@ -18,14 +18,14 @@ About me:
  <img height="28px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img height="28px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
- <img height="28px" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img height="28px" alt="Node.js" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=node.js&logoColor=white">
- <img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
- <img height="28px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005f86?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img height="28px" alt="Figma" src="https://img.shields.io/badge/Figma-eb4040?style=for-the-badge&logo=figma&logoColor=white">
+ <img height="28px" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img height="28px" alt="node.js" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=node.js&logoColor=white">
+ <img height="28px" alt="git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ <img height="28px" alt="gitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
+ <img height="28px" alt="visual-studio-code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img height="28px" alt="figma" src="https://img.shields.io/badge/Figma-eb4040?style=for-the-badge&logo=figma&logoColor=white">
  <img height="28px" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
- <img height="28px" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)">
+ <img height="28px" alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 
