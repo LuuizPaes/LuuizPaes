@@ -31,6 +31,13 @@ About me:
 
 <br><br>
 
+<div align="center">
+  <a href="https://github.com/LuuizPaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuizPaes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizPaes&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+<br>
+
  <div>
  <h3>🚀 Learning About:</h3>
  <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
