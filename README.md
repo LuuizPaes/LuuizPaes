@@ -4,9 +4,9 @@
 
 About me:
 
-- 💻 I'm web developer
-- 💬 Ask me about JavaScript, HTML5, CSS3, React
-- 🚀 learning about react, typescript
+- 💻 I'm Full Stack Developer
+- 💬 Ask me about JavaScript, React, Node
+- 🚀 learning about IA, react, typescript
 - 🎓 Graduate in Systems Analysis and Development
 - ⚡ Fun Fact: I am curious 😜
 
