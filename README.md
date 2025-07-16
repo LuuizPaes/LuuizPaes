@@ -2,15 +2,15 @@
 
 
 
-About me:
+# About me:
 
 - 💻 I'm Full Stack Developer
 - 💬 Ask me about JavaScript, React, Node
-- 🚀 learning about IA, react, typescript
+- 🚀 learning about IA, N8N, typescript
 - 🎓 Graduate in Systems Analysis and Development
 - ⚡ Fun Fact: I am curious 😜
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -32,24 +32,29 @@ About me:
  <img height="28px" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/LuuizPaes">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuuizPaes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizPaes&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
 <br>
 
- <div>
- <h3>🚀 Learning About:</h3>
+### 📊 Estatísticas
+
+<div>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LuuizPaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
  
- <img height="28px" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img height="28px" alt="Node.js" src="https://img.shields.io/badge/Node-43853d?style=for-the-badge&logo=node.js&logoColor=white">
- <img height="28px" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
- 
+<br>
+<br>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizPaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </div>
 
   
