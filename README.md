@@ -41,24 +41,24 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="100%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuuizPaes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
- 
-<br>
-<br>
+  /> 
+ <br/>  
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      width="100%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizPaes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </div>
-
+<br/>  
   
-  ### Connect with me:
+### Connect with me:
  
 <div> 
   <a href="https://instagram.com/luuizpaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
