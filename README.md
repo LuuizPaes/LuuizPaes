@@ -3,7 +3,7 @@
 
 # About me:
 
-- 💻 I'm Full Stack Developer
+- 💻 I'm Front-end Developer
 - 💬 Ask me about JavaScript, React, Node
 - 🚀 learning about IA, N8N, typescript
 - 🎓 Graduate in Systems Analysis and Development
